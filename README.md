@@ -1,18 +1,16 @@
+<h1 align="center">Hi 👋, I'm Harshil Dobariya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Harshil+Dobariya;Full+Stack+Developer;System+Architect+in+Progress;Building+Secure+and+Scalable+Systems" />
+🚀 Full Stack Developer | System Architect | Problem Solver <br/>
+💻 MERN Stack | Java | Scalable SaaS Systems
 </p>
-# Hi 👋, I'm Harshil Dobariya
-
-🚀 Full Stack Developer | System Architect | Problem Solver  
-💻 MERN Stack | Java | Scalable SaaS Systems  
 
 ---
 
 ## 🔥 About Me
 
 I build secure, scalable, and enterprise-grade systems focused on real-world impact.  
-Currently developing high-performance CRM and secure document infrastructure platforms.
+Currently developing high-performance CRM platforms and secure document infrastructure systems.
 
 ---
 
@@ -22,6 +20,10 @@ Currently developing high-performance CRM and secure document infrastructure pla
 **Backend:** Node.js, Express.js, NestJS  
 **Database:** MongoDB, MySQL  
 **Other:** AWS, Git, REST APIs, RBAC Systems  
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,java,ts,mongodb,mysql,aws,git,github,tailwind" />
+</p>
 
 ---
 
@@ -39,7 +41,7 @@ A multi-role CRM platform designed for real estate operations including lead lif
 ---
 
 ### ☀️ Solar ERP / Solar CRM
-An EPC workflow management system handling leads, surveys, quotations, projects, inventory, procurement, installation, and finance modules in a unified lifecycle-driven interface.
+An EPC workflow management system managing leads, surveys, quotations, projects, inventory, procurement, installation, and finance workflows within a unified lifecycle-driven interface.
 
 ---
 
@@ -49,22 +51,12 @@ Full-stack web platform with modern UI, structured backend APIs, and scalable ar
 ---
 
 ### 🧭 Wanderlust
-A travel-based web application featuring location exploration, interactive UI components, and dynamic data handling for destination discovery.
+A travel-based web application featuring destination exploration, interactive UI components, and dynamic data handling.
 
 ---
 
 ### 🍔 Food Delivery Application
 End-to-end food ordering system with authentication, cart management, order workflow, and responsive frontend backed by REST APIs.
-
----
-
-### 💬 Chat Application (Beginner Project)
-Real-time messaging application implementing socket-based communication and user interaction fundamentals.
-
----
-
-### 🌦 Weather Application (Beginner Project)
-Weather forecasting app consuming external APIs to display real-time climate data with responsive UI.
 
 ---
 
@@ -76,9 +68,32 @@ Built a simplified Git-like system demonstrating version tracking, commit histor
 ### 📊 CRM System (General)
 Developed modular CRM features including customer management, task tracking, and structured data workflows.
 
-## 📫 Connect With Me
-
-LinkedIn: www.linkedin.com/in/dobariya-harshil
 ---
 
-⚡ “I don’t just write code. I design systems.”
+## 🧪 Beginner Projects
+
+### 💬 Chat Application
+Real-time messaging application implementing socket-based communication and user interaction fundamentals.
+
+### 🌦 Weather Application
+Weather forecasting app consuming external APIs to display real-time climate data with responsive UI.
+
+---
+
+## 📈 GitHub Stats
+
+![Harshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshil90956&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshil90956&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/dobariya-harshil
+
+---
+
+### ⚡ Developer Philosophy
+
+> I don’t just write code. I design systems.
