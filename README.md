@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Harshil+Dobariya;Full+Stack+Developer;System+Architect+in+Progress;Building+Secure+and+Scalable+Systems" />
+</p>
 # Hi 👋, I'm Harshil Dobariya
 
 🚀 Full Stack Developer | System Architect | Problem Solver  
