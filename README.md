@@ -2,89 +2,157 @@
 
 <p align="center">
 🚀 Full Stack Developer | System Architect | Problem Solver <br/>
-💻 MERN Stack | Java | Scalable SaaS Systems
+💻 MERN Stack • Java • Scalable SaaS Systems • Secure Infrastructure
 </p>
 
 ---
 
 ## 🔥 About Me
 
-I build secure, scalable, and enterprise-grade systems focused on real-world impact.  
-Currently developing high-performance CRM platforms and secure document infrastructure systems.
+I am a full-stack developer focused on building **secure, scalable, and production-grade software systems** rather than isolated applications.  
+My work revolves around designing real-world platforms involving workflow automation, role-based architectures, and enterprise data handling.
+
+Currently working on:
+- Enterprise CRM & ERP platforms
+- Secure document infrastructure systems
+- Workflow-driven SaaS architectures
+- Performance-oriented backend design
+
+I enjoy transforming complex operational problems into structured software systems.
+
+---
+
+## 🧠 Core Expertise
+
+- System Design & Modular Architecture
+- Role-Based Access Control (RBAC)
+- SaaS Application Development
+- Secure Document Processing
+- Workflow Automation Systems
+- REST API Design & Backend Structuring
+- Scalable Frontend Architecture
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend:** React.js, Tailwind CSS, JavaScript, TypeScript  
-**Backend:** Node.js, Express.js, NestJS  
-**Database:** MongoDB, MySQL  
-**Other:** AWS, Git, REST APIs, RBAC Systems  
+**Frontend Development**
+- React.js, Tailwind CSS, JavaScript, TypeScript, Bootstrap
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,java,ts,mongodb,mysql,aws,git,github,tailwind" />
-</p>
+**Backend Development**
+- Node.js, Express.js, NestJS
+- REST API Architecture
+- Authentication & Authorization Systems
+
+**Database**
+- MongoDB
+- MySQL
+
+**Tools & Technologies**
+- Git, GitHub, AWS Basics
+- API Integration
+- State Management
+- Secure Printing & Document Systems
 
 ---
 
 ## 🚀 Projects Portfolio
 
 ### 🔐 SecurePDF — High-Security Document & Print Control System
-A secure PDF generation and controlled printing platform built using React.js and Node.js.  
-Implements role-based access, serial automation, mm-precision layouts, and print-restricted document execution for institutional use cases.
+Designed a secure document generation and controlled printing platform for institutional environments such as banking, education, and government workflows.
+
+**Key Highlights**
+- Role-based admin & user workflow
+- Serial number automation engine
+- MM-precision layout rendering
+- Multi-section A4 PDF composition
+- Print-only access preventing file exposure
+- Secure document lifecycle management
 
 ---
 
 ### 🏢 Real Estate CRM (Enterprise SaaS)
-A multi-role CRM platform designed for real estate operations including lead lifecycle management, project tracking, and workflow automation with scalable backend architecture.
+Architected a multi-role CRM platform supporting operational workflows across real estate organizations.
+
+**Features**
+- Lead lifecycle management
+- Project & unit tracking
+- Role-based dashboards
+- Workflow automation
+- Scalable backend module design
 
 ---
 
 ### ☀️ Solar ERP / Solar CRM
-An EPC workflow management system managing leads, surveys, quotations, projects, inventory, procurement, installation, and finance workflows within a unified lifecycle-driven interface.
+Developed an EPC lifecycle management system handling the complete solar project pipeline.
+
+**Modules**
+Lead → Survey → Quotation → Project → Inventory → Procurement → Installation → Finance
+
+Focused on lifecycle-driven UI and operational automation.
 
 ---
 
 ### 🌐 Trozzi.in
-Full-stack web platform with modern UI, structured backend APIs, and scalable architecture focused on production-ready deployment and performance optimization.
+Production-oriented full-stack platform with structured backend APIs and modern UI architecture emphasizing scalability and maintainability.
 
 ---
 
 ### 🧭 Wanderlust
-A travel-based web application featuring destination exploration, interactive UI components, and dynamic data handling.
+Travel exploration platform featuring dynamic UI components, location-based content handling, and interactive frontend experiences.
 
 ---
 
 ### 🍔 Food Delivery Application
-End-to-end food ordering system with authentication, cart management, order workflow, and responsive frontend backed by REST APIs.
+Complete ordering workflow including authentication, cart management, order processing, and API-driven backend communication.
 
 ---
 
 ### 🧩 Custom Version Control System
-Built a simplified Git-like system demonstrating version tracking, commit history management, and file state control concepts.
+Built a simplified Git-inspired system demonstrating:
+- Commit tracking
+- File state management
+- Version history concepts
+
+Focused on understanding internal version control mechanics.
 
 ---
 
 ### 📊 CRM System (General)
-Developed modular CRM features including customer management, task tracking, and structured data workflows.
+Developed modular CRM features including:
+- Customer management
+- Task tracking
+- Activity workflows
+- Structured data organization
 
 ---
 
-## 🧪 Beginner Projects
+## 🧪 Beginner Projects (Learning Phase)
 
 ### 💬 Chat Application
-Real-time messaging application implementing socket-based communication and user interaction fundamentals.
+Real-time messaging application using socket-based communication to understand live event systems.
 
 ### 🌦 Weather Application
-Weather forecasting app consuming external APIs to display real-time climate data with responsive UI.
+API-based weather forecasting application displaying real-time climate data with responsive UI.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-![Harshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshil90956&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshil90956&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshil90956&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshil90956&layout=compact&theme=tokyonight)
+---
+
+## 🎯 Current Learning Focus
+
+- Advanced Backend Architecture
+- Distributed System Thinking
+- Performance Optimization
+- Enterprise SaaS Design Patterns
+- Data Structures & Algorithms
 
 ---
 
@@ -94,6 +162,6 @@ Weather forecasting app consuming external APIs to display real-time climate dat
 
 ---
 
-### ⚡ Developer Philosophy
+## ⚡ Developer Philosophy
 
-> I don’t just write code. I design systems.
+> I don’t just build features — I design systems that scale, secure data, and solve real operational problems.
