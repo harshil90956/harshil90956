@@ -14,7 +14,6 @@ My work revolves around designing real-world platforms involving workflow automa
 
 Currently working on:
 - Enterprise CRM & ERP platforms
-- Secure document infrastructure systems
 - Workflow-driven SaaS architectures
 - Performance-oriented backend design
 
@@ -27,7 +26,6 @@ I enjoy transforming complex operational problems into structured software syste
 - System Design & Modular Architecture
 - Role-Based Access Control (RBAC)
 - SaaS Application Development
-- Secure Document Processing
 - Workflow Automation Systems
 - REST API Design & Backend Structuring
 - Scalable Frontend Architecture
@@ -52,24 +50,10 @@ I enjoy transforming complex operational problems into structured software syste
 - Git, GitHub, AWS Basics
 - API Integration
 - State Management
-- Secure Printing & Document Systems
 
 ---
 
 ## 🚀 Projects Portfolio
-
-### 🔐 SecurePDF — High-Security Document & Print Control System
-Designed a secure document generation and controlled printing platform for institutional environments such as banking, education, and government workflows.
-
-**Key Highlights**
-- Role-based admin & user workflow
-- Serial number automation engine
-- MM-precision layout rendering
-- Multi-section A4 PDF composition
-- Print-only access preventing file exposure
-- Secure document lifecycle management
-
----
 
 ### 🏢 Real Estate CRM (Enterprise SaaS)
 Architected a multi-role CRM platform supporting operational workflows across real estate organizations.
